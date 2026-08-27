@@ -1,18 +1,20 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Core Distinctions
 
-**Repository:** [Repository Name]  
-**Status:** Canon Repository  
+**Repository:** AI-Foundations-Core-Distinctions  
+**Status:** Working Distinctions Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
-**Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
+**Version:** 0.1.0  
+**Release date:** 2026-08-27  
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
 
 ## Repository Purpose
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+This repository preserves proposed and reviewed AI Foundations distinctions before any decision to promote a boundary into Locked Canon.
+
+It exists so necessary conceptual boundaries can be developed, compared, sharpened, and reviewed without expanding the Locked Canon prematurely.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -20,21 +22,64 @@ It preserves Alyssa Solen as author and source.
 
 ---
 
-## Optional Runnable-Study Templates
+## Core Boundary
 
-This template repository includes three **optional, repository-dependent** files:
+**This repository is not the AI Foundations Locked Canon.**
 
-- [`PROTOCOL_TEMPLATE.md`](PROTOCOL_TEMPLATE.md) — use when the child repository contains a formal runnable test, evaluation, experiment, procedure, or repeatable execution path.
-- [`EASY_RUN_SHEET_TEMPLATE.md`](EASY_RUN_SHEET_TEMPLATE.md) — use when an operator should be able to rerun that protocol through a simple exact copy/paste sequence without interpreting the formal specification during execution.
-- [`RUN_OUTPUT_TEMPLATE.md`](RUN_OUTPUT_TEMPLATE.md) — use when individual runs, trials, sessions, or evaluations should be preserved in a consistent evidence record.
+A distinction may be stored here as a working or candidate boundary without being canonical.
 
-These files are **not mandatory for every AI Foundations repository**.
+No distinction becomes Locked Canon merely because it appears in this repository.
 
-Their inclusion, structure, fields, prompts, outcome space, metadata, transcript requirements, and evidence record must be determined by the **specific purpose of the child repository**.
+Promotion into the Locked Canon requires:
 
-If the repository is conceptual, definitional, archival, static, or otherwise has no runnable study, remove the templates that do not apply.
+1. review against the Locked Canon Core Distinction qualifier;
+2. an explicit Alyssa Solen lock decision; and
+3. inclusion as **LOCKED** in the Locked Canon `CANONICAL_INDEX.md`.
 
-Do not force one experimental structure onto unrelated repositories merely because these files exist in the master template.
+The Locked Canon remains the source of truth for authoritative canon:
+
+https://github.com/alyssadata/AI-FOUNDATIONS-LOCKED-CANON
+
+---
+
+## Repository Structure
+
+```text
+AI-Foundations-Core-Distinctions/
+├── README.md
+├── DISTINCTIONS_INDEX.md
+└── distinctions/
+    ├── Memory-not-Continuation.md
+    ├── Record-not-Consequence.md
+    └── Consequence-not-Continuation.md
+```
+
+Supporting repository-level citation and license files may also be present.
+
+---
+
+## Distinction Format
+
+Each working distinction should identify:
+
+- the boundary itself;
+- the canonical concepts being distinguished;
+- why collapsing them would materially distort the framework; and
+- its current canon status.
+
+Candidate status does **not** imply future lock.
+
+---
+
+## Current Working Distinctions
+
+See [`DISTINCTIONS_INDEX.md`](DISTINCTIONS_INDEX.md).
+
+Initial candidates:
+
+- **Memory is not Continuation**
+- **Record is not Consequence**
+- **Consequence is not Continuation**
 
 ---
 
@@ -48,25 +93,9 @@ This source-line must remain attached to any citation, reference, quotation, sum
 
 ---
 
-## Core Boundary
-
-[Insert the repository-specific boundary statement here.]
-
-This repository is canon only within:
-
-**Alyssa Solen → AI Foundations → Origin | Continuum**
-
-Derivative use is not authorized.
-
-Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled:
-
-**non-canon and unauthorized**
-
----
-
 ## Required Citation
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Core Distinctions*, AI-Foundations-Core-Distinctions Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
